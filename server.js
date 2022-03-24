@@ -4,6 +4,8 @@
 // https://www.npmjs.com/package/express
 const express = require('express');
 
+// I added this
+
 // converts content in the request into parameter req.body
 // https://www.npmjs.com/package/body-parser
 const bodyParser = require('body-parser');
